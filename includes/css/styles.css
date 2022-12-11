@@ -1,0 +1,36 @@
+body {
+    background-color: #F0E9D2;
+}
+
+h1 {
+    color: #181D31;
+}
+
+h3 {
+    color: #181D31;
+}
+
+h4 {
+    color: #181D31;
+}
+
+p {
+    color: #181D31;
+    text-align: justify;
+}
+
+th {
+    color: #181D31;
+}
+
+td {
+    color: #181D31;
+}
+
+hr {
+    width: 5%;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: #678983;
+    padding: 0px 0px 10px 0px;
+}
